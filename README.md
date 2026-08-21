@@ -6,7 +6,7 @@ A practical penetration testing assessment demonstrating OSINT reconnaissance wi
 
 ## Overview
 
-This project documents a practical penetration testing exercise focused on two important stages of a security assessment: Reconnaissance using theHarvester, and Network discovery and scanning using Zenmap. The purpose of this project was to understand how publicly available information can be gathered about an authorized target and how network scanning can be used to identify active hosts within an authorized local network. All activities documented in this repository were performed in an authorized training environment for educational and cybersecurity learning purposes.
+This project documents a practical penetration testing exercise focused on two important stages of a security assessment: reconnaissance using the Harvester and network discovery using Zenmap. The purpose of this project was to understand how publicly available information can be gathered about an authorized target and how network scanning can be used to identify active hosts within an authorized local network. All activities documented in this repository were performed in an authorized training environment for educational and cybersecurity learning purposes.
 
 ## Objectives
 
@@ -16,7 +16,7 @@ The main objectives of this assessment were:
 
 ● Gather publicly available information about an authorized target.
 
-● Identify potential information exposed through public sources.
+● Identify potentially sensitive or unnecessary information exposed through public sources
 
 ● Determine the local IP address and LAN subnet of the testing system.
 
@@ -30,7 +30,7 @@ The main objectives of this assessment were:
 
 ## 🛠️ Tools Used
 
-theHarvester - OSINT and passive reconnaissance
+the Harvester - OSINT and passive reconnaissance
 
 Zenmap - Network discovery and Nmap-based scanning
 
@@ -48,7 +48,7 @@ Email addresses, Subdomains, Hostnames, IP addresses, URLs, Other publicly avail
 
 ### Purpose
 
-The tool was used to understand what information about the authorized target could be discovered from publicly available sources without directly exploiting the target.
+The tool was used to understand what information about the authorized target could be discovered from publicly available sources without attempting to exploit the target
 
 ### Activities Performed
 
